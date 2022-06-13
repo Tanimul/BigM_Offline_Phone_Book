@@ -6,5 +6,6 @@ object Constants {
 
     object SharedPref {
         const val myPreferences = "MyPreferences"
+        const val loginOrNot = "LoginOrNot"
     }
 }

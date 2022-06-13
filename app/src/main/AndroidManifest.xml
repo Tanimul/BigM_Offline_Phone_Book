@@ -15,13 +15,14 @@
         android:theme="@style/Theme.BigM_OfflinePhoneBook"
         tools:targetApi="31">
         <activity
-            android:name=".HomeActivity"
+            android:name=".ui.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".InputActivity"
+            android:name=".ui.InputActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.LoginActivity"
+            android:windowSoftInputMode="stateVisible"
+            android:name=".ui.auth.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

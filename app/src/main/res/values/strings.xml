@@ -8,4 +8,5 @@
     <string name="name">Name</string>
     <string name="query_hint">Search...</string>
     <string name="no_data_found">No Data Found!!</string>
+    <string name="delete_all">Delete All</string>
 </resources>

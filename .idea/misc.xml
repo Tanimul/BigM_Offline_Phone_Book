@@ -9,13 +9,14 @@
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/drawable/ic_back_arrow.xml" value="0.1" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/drawable/ic_edit.xml" value="0.1" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/drawable/search_background.xml" value="0.1" />
-        <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/activity_home.xml" value="0.14" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/activity_input.xml" value="0.16" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/activity_login.xml" value="0.22" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/layout_empty.xml" value="0.225" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/layout_phone_book.xml" value="0.2" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/layout_progress_dialog.xml" value="0.225" />
         <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/layout/layout_toolbar.xml" value="0.225" />
+        <entry key="..\:/Kotlin/Android_Kotlin/BigM_OfflinePhoneBook/app/src/main/res/menu/top_menu.xml" value="0.1" />
       </map>
     </option>
   </component>
