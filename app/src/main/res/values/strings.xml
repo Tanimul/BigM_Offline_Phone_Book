@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BigM_Offline Phone Book</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="add">Add</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="query_hint">Search...</string>
+    <string name="no_data_found">No Data Found!!</string>
 </resources>
