@@ -11,6 +11,9 @@ import com.example.bigm_offlinephonebook.R
 
 open class AppBaseActivity : AppCompatActivity() {
     private var progressDialog: Dialog? = null
+    fun setToolbarWithoutBackButton(mToolbar: Toolbar) {
+        setSupportActionBar(mToolbar)
+    }
 
     fun setToolbar(mToolbar: Toolbar) {
         setSupportActionBar(mToolbar)

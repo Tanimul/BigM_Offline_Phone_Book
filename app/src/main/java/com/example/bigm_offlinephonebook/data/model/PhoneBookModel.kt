@@ -9,7 +9,7 @@ data class PhoneBookModel(
     val name: String,
     val mobileNumber: String,
     val email: String,
-    val addedAt: Long,
+    val addedAt: Long=System.currentTimeMillis(),
     val updatedAt: Long,
 ) : Serializable {
     @PrimaryKey(autoGenerate = true)

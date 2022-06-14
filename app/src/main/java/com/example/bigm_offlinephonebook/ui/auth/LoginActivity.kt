@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import com.example.bigm_offlinephonebook.databinding.ActivityLoginBinding
+import com.example.bigm_offlinephonebook.ui.AppBaseActivity
 import com.example.bigm_offlinephonebook.ui.HomeActivity
 import com.example.bigm_offlinephonebook.ui.InputActivity
 import com.example.bigm_offlinephonebook.utils.Constants
@@ -11,7 +12,7 @@ import com.example.bigm_offlinephonebook.utils.extentions.getSharedPrefInstance
 import com.example.bigm_offlinephonebook.utils.extentions.launchActivity
 import com.example.bigm_offlinephonebook.utils.extentions.toast
 
-class LoginActivity : AppCompatActivity() {
+class LoginActivity : AppBaseActivity() {
     companion object {
         private const val TAG: String = "LoginActivity"
     }
